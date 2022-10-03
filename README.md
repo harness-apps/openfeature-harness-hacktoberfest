@@ -1,11 +1,25 @@
-# OpenFeature Harness Hacktoberfest
+![openfeature_harness](https://user-images.githubusercontent.com/21008429/193612108-54a97930-7ac3-4155-bfc7-e2a6316fe07b.png)
+# Hacktoberfest 2022
 
-This repository contains contributing guidelines to take participate in Hacktoberfest 2022 and make your very first contributions to [openFeature](https://docs.openfeature.dev/)
+This repository contains contributing guidelines to take participate in Hacktoberfest 2022 and make your very first contributions to [openFeature](https://docs.openfeature.dev/)! ❤️
 
 > OpenFeature is an open standard for feature flag management, created to support a robust feature flag ecosystem using cloud native technologies. OpenFeature provides a unified API and SDK, and a developer-first, cloud-native implementation, with extensibility for open source and commercial offerings.
 
+Harness is proud to support [OpenFeature](https://openfeature.dev), a new CNCF project working to standardize feature flag functionality and integrations across the industry. This will help de-risk feature flags and let more engineering teams take advantage of world class feature flag tooling confidently. We recently talked about [our commitment to OpenFeature in this blog](https://harness.io/blog/openfeature-feature-flags), check it out!
+
 ## Join us on Slack
 - Join [#hacktoberfest2022](https://harnesscommunity.slack.com/archives/C0422KEFLN7) on Harness Community Slack!
+
+## How to Get Involved
+
+Make sure you join the Hacktoberfest discussion on our community slack, as well as share your ideas or ask any questions on our discourse. Don't forget to use @harnessio & #hacktoberfest on Twitter! 
+
+We have four main repositories (with more to come) to contribute to, feel free to grab an **issue**!
+
+- [Openfeature Java Client](https://github.com/harness-apps/openfeature-java-client)
+- [Openfeature Go Client](https://github.com/harness-apps/openfeature-go-client)
+- [OpenFeature .Net Client](https://github.com/harness-apps/openfeature-dotnet-client)
+- [OpenFeature JS Client](https://github.com/harness-apps/openfeature-js-client)
 
 ## Contributor License Agreement
 
