@@ -12,7 +12,7 @@ Harness is proud to support [OpenFeature](https://openfeature.dev), a new CNCF p
 
 ## How to Get Involved
 
-Make sure you join the Hacktoberfest discussion on our community slack, as well as share your ideas or ask any questions on our discourse. Don't forget to use @harnessio & #hacktoberfest on Twitter! 
+Make sure you join the Hacktoberfest discussion on our community slack, as well as share your ideas or ask any questions on our [discourse](https://community.harness.io). Don't forget to use @harnessio & #hacktoberfest on Twitter! 
 
 We have four main repositories (with more to come) to contribute to, feel free to grab an **issue**!
 
