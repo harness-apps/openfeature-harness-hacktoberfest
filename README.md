@@ -1,7 +1,7 @@
 ![openfeature_harness](https://user-images.githubusercontent.com/21008429/193612108-54a97930-7ac3-4155-bfc7-e2a6316fe07b.png)
 # Hacktoberfest 2022
 
-This repository contains contributing guidelines to take participate in Hacktoberfest 2022 and make your very first contributions to [openFeature](https://docs.openfeature.dev/)! ❤️
+This repository contains contributing guidelines to participate in Hacktoberfest 2022 and make your very first contributions to [OpenFeature](https://docs.openfeature.dev/)! ❤️
 
 > OpenFeature is an open standard for feature flag management, created to support a robust feature flag ecosystem using cloud native technologies. OpenFeature provides a unified API and SDK, and a developer-first, cloud-native implementation, with extensibility for open source and commercial offerings.
 
