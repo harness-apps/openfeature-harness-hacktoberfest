@@ -16,10 +16,10 @@ Make sure you join the Hacktoberfest discussion on our community slack, as well 
 
 We have four main repositories (with more to come) to contribute to, feel free to grab an **issue**!
 
-- [Openfeature Java Client](https://github.com/harness-apps/openfeature-java-client)
-- [Openfeature Go Client](https://github.com/harness-apps/openfeature-go-client)
-- [OpenFeature .Net Client](https://github.com/harness-apps/openfeature-dotnet-client)
-- [OpenFeature JS Client](https://github.com/harness-apps/openfeature-js-client)
+- [Openfeature Java Provider](https://github.com/harness-apps/openfeature-java-provider)
+- [Openfeature Go Provider](https://github.com/harness-apps/openfeature-go-provider)
+- [OpenFeature .Net Provider](https://github.com/harness-apps/openfeature-dotnet-provider)
+- [OpenFeature JS Provider](https://github.com/harness-apps/openfeature-js-provider)
 
 ## Contributor License Agreement
 
